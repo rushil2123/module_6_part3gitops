@@ -19,7 +19,7 @@ spec:
         - name: ghcr-creds
       containers:
         - name: transactions
-          image: ghcr.io/rushil2123/module_6_part3_main-transactions:abcc88b0c2dc9d8fd7d368b4c41d5a7f760e58d3
+          image: ghcr.io/rushil2123/module_6_part3_main-transactions:49374a2ccd471e2b087054e2a7a3341fecb71787
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
